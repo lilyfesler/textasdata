@@ -8,8 +8,8 @@
 rm(list = ls())
 
 ### Install Packages (only need to do this once)
-#install.packages("stm")
-#install.packages("wordcloud")
+install.packages("stm")
+install.packages("wordcloud")
 
 library(stm)
 library(wordcloud)

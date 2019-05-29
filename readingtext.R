@@ -8,9 +8,13 @@
 rm(list = ls())
 
 ### Install Packages (only need to do this once)
-#install.packages("tm")
-#install.packages("tidytext")
-#install.packages("SnowballC")
+install.packages("tm")
+install.packages("tidytext")
+install.packages("dplyr")
+install.packages("SnowballC")
+install.packages("ggplot2")
+install.packages("SnowballC")
+install.packages("stringr")
 
 ### Load packages (need to do this each time you start a new R session)
 library(tm) # text mining (option 1)
