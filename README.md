@@ -1,5 +1,5 @@
-**Text as Data Workshop**
-May 29, 2019
+**Text as Data Workshop**  
+May 29, 2019  
 
 **Text_as_Data_Slides.pdf**: slides for the workshop  
 **readingtext.R**: shows text preprocessing + dictionary methods  
