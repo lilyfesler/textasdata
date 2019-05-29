@@ -15,6 +15,7 @@ library(stm)
 library(wordcloud)
 
 data <- read.csv("http://scholar.princeton.edu/sites/default/files/bstewart/files/poliblogs2008.csv")
+head(data)
 
 # preprocess: convert to lower case, remove punctuation, remove stopwords
 # remove numbers, and stem
